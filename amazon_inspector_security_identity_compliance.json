@@ -26,7 +26,7 @@
         "us-west-2"
       ],
       "name" : "Amazon Inspector",
-      "description" : "Automated and continual vulnerability management for Amazon EC2 and Amazon ECR",
+      "description" : "Automated and continual vulnerability management for Amazon EC2 and Amazon ECR test",
       "category" : "Security, Identity, & Compliance",
       "url" : "https://aws.amazon.com/inspector/",
       "free_tier" : "Free Trial"
