@@ -32,13 +32,6 @@
       "sa-east-1",
       "us-gov-east-1"
     ],
-    "compliance": [
-        "SOC",
-        "PCI",
-        "FEDRAMP",
-        "HI TRUST CSF",
-        "HIPAA"
-    ],  
     "other_keywords": [
       "Elasticsearch",
       "Kibana",
