@@ -22,7 +22,7 @@
       "us-east-2",
       "us-west-2"
     ],
-    "description" : "Automated and continual vulnerability management for Amazon EC2 and Amazon ECR",
+    "description" : "Automated and continual vulnerability management for Amazon EC2 and Amazon ECR (test)",
     "url" : "https://aws.amazon.com/inspector/",
     "free_tier" : "Free Trial"
 }
