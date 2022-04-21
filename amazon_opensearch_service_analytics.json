@@ -1,0 +1,59 @@
+{
+    "name": "Amazon OpenSearch Service",
+    "category": "Analytics",
+    "free_tier": "Free Trial",
+    "description": "Search, visualize, and analyze up to petabytes of text and unstructured data",
+    "url": "https://aws.amazon.com/elasticsearch-service/",
+    "regions": [
+      "ap-east-1",
+      "ap-south-1",
+      "ap-southeast-2",
+      "cn-north-1",
+      "cn-northwest-1",
+      "eu-south-1",
+      "eu-west-3",
+      "us-gov-west-1",
+      "us-west-1",
+      "us-west-2",
+      "af-south-1",
+      "ap-southeast-1",
+      "ca-central-1",
+      "eu-central-1",
+      "eu-north-1",
+      "eu-west-1",
+      "eu-west-2",
+      "me-south-1",
+      "us-east-1",
+      "us-east-2",
+      "ap-northeast-1",
+      "ap-northeast-2",
+      "ap-northeast-3",
+      "ap-southeast-3",
+      "sa-east-1",
+      "us-gov-east-1"
+    ],
+    "compliance": [
+      "SOC",
+      "PCI",
+      "FEDRAMP",
+      "HI TRUST CSF",
+      "HIPAA"
+    ],
+    "other_keywords": [
+      "Elasticsearch",
+      "Kibana",
+      "Fully Managed",
+      "Full Text Search",
+      "Database",
+      "Indexed",
+      "Lucene"
+    ],
+    "related_content": [
+      {
+        "type": "url",
+        "content": "https://aws.amazon.com/opensearch-service/",
+        "label": "Main service page"
+      }
+    ],
+    "service_blurb": "Amazon OpenSearch Service makes it easy for you to perform interactive log analytics, real-time application monitoring, website search, and more. OpenSearch is an open source, distributed search and analytics suite derived from Elasticsearch. Amazon OpenSearch Service is the successor to Amazon Elasticsearch Service, and offers the latest versions of OpenSearch, support for 19 versions of Elasticsearch (1.5 to 7.10 versions), as well as visualization capabilities powered by OpenSearch Dashboards and Kibana (1.5 to 7.10 versions)."
+  }
